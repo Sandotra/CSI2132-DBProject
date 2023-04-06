@@ -1,0 +1,2 @@
+Create 'active' attribute in rooms
+Make certain attributes unique
